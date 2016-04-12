@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 4634d97feb8a01f4abe596cdb87e43e6
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Basket
+    100002: Basket 1
+    100004: Basket_Balloon_Tie_Ring
+    100006: Basket_Door
+    100008: Basket_Support_Assy
+    100010: Basket_Support_Assy 1
+    100012: Basket_Support_Assy 2
+    100014: Basket_Support_Assy 3
+    100016: Bolt
+    100018: Bolt 1
+    100020: Bolt 2
+    100022: Bolt 3
+    100024: Bolt 4
+    100026: Bolt 5
+    100028: Bolt 6
+    100030: Bolt 7
+    100032: Bskt_Support_Assy_1
+    100034: Bskt_Support_Assy_1 1
+    100036: Bskt_Support_Assy_1 2
+    100038: Bskt_Support_Assy_1 3
+    100040: //RootNode
+    100042: Chock_and_Bolt
+    100044: Chock_and_Bolt 1
+    100046: Chock_and_Bolt 2
+    100048: Chock_and_Bolt 3
+    100050: Door_Hindge
+    100052: Door_Hindge 1
+    100054: Door_Latch
+    100056: Door_Latch_catch
+    100058: Frame
+    100060: group_0
+    100062: group_1
+    100064: group_2
+    100066: group_3
+    100068: group_4
+    100070: group_5
+    100072: group_6
+    100074: group_7
+    100076: group_8
+    100078: ID111
+    100080: ID127
+    100082: ID156
+    100084: ID169
+    100086: ID182
+    100088: ID195
+    100090: ID20
+    100092: ID207
+    100094: ID241
+    100096: ID241 1
+    100098: ID241 2
+    100100: ID241 3
+    100102: ID249
+    100104: ID249 1
+    100106: ID249 2
+    100108: ID249 3
+    100110: ID255
+    100112: ID255 1
+    100114: ID255 2
+    100116: ID255 3
+    100118: ID261
+    100120: ID261 1
+    100122: ID261 2
+    100124: ID261 3
+    100126: ID267
+    100128: ID267 1
+    100130: ID267 2
+    100132: ID267 3
+    100134: ID273
+    100136: ID273 1
+    100138: ID273 2
+    100140: ID273 3
+    100142: ID279
+    100144: ID279 1
+    100146: ID279 2
+    100148: ID279 3
+    100150: ID28
+    100152: ID292
+    100154: ID292 1
+    100156: ID292 2
+    100158: ID292 3
+    100160: ID298
+    100162: ID298 1
+    100164: ID298 2
+    100166: ID298 3
+    100168: ID311
+    100170: ID311 1
+    100172: ID311 2
+    100174: ID311 3
+    100176: ID317
+    100178: ID317 1
+    100180: ID317 2
+    100182: ID317 3
+    100184: ID329
+    100186: ID329 1
+    100188: ID329 2
+    100190: ID329 3
+    100192: ID335
+    100194: ID335 1
+    100196: ID335 2
+    100198: ID335 3
+    100200: ID341
+    100202: ID341 1
+    100204: ID341 2
+    100206: ID341 3
+    100208: ID347
+    100210: ID347 1
+    100212: ID347 2
+    100214: ID347 3
+    100216: ID351
+    100218: ID351 1
+    100220: ID351 2
+    100222: ID351 3
+    100224: ID368
+    100226: ID381
+    100228: ID45
+    100230: ID60
+    100232: ID73
+    100234: ID86
+    100236: ID99
+    400000: Basket
+    400002: Basket 1
+    400004: Basket_Balloon_Tie_Ring
+    400006: Basket_Door
+    400008: Basket_Support_Assy
+    400010: Basket_Support_Assy 1
+    400012: Basket_Support_Assy 2
+    400014: Basket_Support_Assy 3
+    400016: Bolt
+    400018: Bolt 1
+    400020: Bolt 2
+    400022: Bolt 3
+    400024: Bolt 4
+    400026: Bolt 5
+    400028: Bolt 6
+    400030: Bolt 7
+    400032: Bskt_Support_Assy_1
+    400034: Bskt_Support_Assy_1 1
+    400036: Bskt_Support_Assy_1 2
+    400038: Bskt_Support_Assy_1 3
+    400040: //RootNode
+    400042: Chock_and_Bolt
+    400044: Chock_and_Bolt 1
+    400046: Chock_and_Bolt 2
+    400048: Chock_and_Bolt 3
+    400050: Door_Hindge
+    400052: Door_Hindge 1
+    400054: Door_Latch
+    400056: Door_Latch_catch
+    400058: Frame
+    400060: group_0
+    400062: group_1
+    400064: group_2
+    400066: group_3
+    400068: group_4
+    400070: group_5
+    400072: group_6
+    400074: group_7
+    400076: group_8
+    400078: ID111
+    400080: ID127
+    400082: ID156
+    400084: ID169
+    400086: ID182
+    400088: ID195
+    400090: ID20
+    400092: ID207
+    400094: ID241
+    400096: ID241 1
+    400098: ID241 2
+    400100: ID241 3
+    400102: ID249
+    400104: ID249 1
+    400106: ID249 2
+    400108: ID249 3
+    400110: ID255
+    400112: ID255 1
+    400114: ID255 2
+    400116: ID255 3
+    400118: ID261
+    400120: ID261 1
+    400122: ID261 2
+    400124: ID261 3
+    400126: ID267
+    400128: ID267 1
+    400130: ID267 2
+    400132: ID267 3
+    400134: ID273
+    400136: ID273 1
+    400138: ID273 2
+    400140: ID273 3
+    400142: ID279
+    400144: ID279 1
+    400146: ID279 2
+    400148: ID279 3
+    400150: ID28
+    400152: ID292
+    400154: ID292 1
+    400156: ID292 2
+    400158: ID292 3
+    400160: ID298
+    400162: ID298 1
+    400164: ID298 2
+    400166: ID298 3
+    400168: ID311
+    400170: ID311 1
+    400172: ID311 2
+    400174: ID311 3
+    400176: ID317
+    400178: ID317 1
+    400180: ID317 2
+    400182: ID317 3
+    400184: ID329
+    400186: ID329 1
+    400188: ID329 2
+    400190: ID329 3
+    400192: ID335
+    400194: ID335 1
+    400196: ID335 2
+    400198: ID335 3
+    400200: ID341
+    400202: ID341 1
+    400204: ID341 2
+    400206: ID341 3
+    400208: ID347
+    400210: ID347 1
+    400212: ID347 2
+    400214: ID347 3
+    400216: ID351
+    400218: ID351 1
+    400220: ID351 2
+    400222: ID351 3
+    400224: ID368
+    400226: ID381
+    400228: ID45
+    400230: ID60
+    400232: ID73
+    400234: ID86
+    400236: ID99
+    2300000: Basket 1
+    2300002: Basket_Balloon_Tie_Ring
+    2300004: Basket_Door
+    2300006: Bolt
+    2300008: Bolt 1
+    2300010: Bolt 2
+    2300012: Bolt 3
+    2300014: Bolt 4
+    2300016: Bolt 5
+    2300018: Bolt 6
+    2300020: Bolt 7
+    2300022: Bskt_Support_Assy_1
+    2300024: Bskt_Support_Assy_1 1
+    2300026: Bskt_Support_Assy_1 2
+    2300028: Bskt_Support_Assy_1 3
+    2300030: Chock_and_Bolt
+    2300032: Chock_and_Bolt 1
+    2300034: Chock_and_Bolt 2
+    2300036: Chock_and_Bolt 3
+    2300038: Door_Hindge
+    2300040: Door_Hindge 1
+    2300042: Door_Latch
+    2300044: Door_Latch_catch
+    2300046: Frame
+    2300048: group_0
+    2300050: group_1
+    2300052: group_2
+    2300054: group_3
+    2300056: group_4
+    2300058: group_5
+    2300060: group_6
+    2300062: group_7
+    2300064: group_8
+    2300066: ID111
+    2300068: ID127
+    2300070: ID156
+    2300072: ID169
+    2300074: ID182
+    2300076: ID195
+    2300078: ID20
+    2300080: ID207
+    2300082: ID241
+    2300084: ID241 1
+    2300086: ID241 2
+    2300088: ID241 3
+    2300090: ID249
+    2300092: ID249 1
+    2300094: ID249 2
+    2300096: ID249 3
+    2300098: ID255
+    2300100: ID255 1
+    2300102: ID255 2
+    2300104: ID255 3
+    2300106: ID261
+    2300108: ID261 1
+    2300110: ID261 2
+    2300112: ID261 3
+    2300114: ID267
+    2300116: ID267 1
+    2300118: ID267 2
+    2300120: ID267 3
+    2300122: ID273
+    2300124: ID273 1
+    2300126: ID273 2
+    2300128: ID273 3
+    2300130: ID279
+    2300132: ID279 1
+    2300134: ID279 2
+    2300136: ID279 3
+    2300138: ID292
+    2300140: ID292 1
+    2300142: ID292 2
+    2300144: ID292 3
+    2300146: ID298
+    2300148: ID298 1
+    2300150: ID298 2
+    2300152: ID298 3
+    2300154: ID311
+    2300156: ID311 1
+    2300158: ID311 2
+    2300160: ID311 3
+    2300162: ID317
+    2300164: ID317 1
+    2300166: ID317 2
+    2300168: ID317 3
+    2300170: ID329
+    2300172: ID329 1
+    2300174: ID329 2
+    2300176: ID329 3
+    2300178: ID335
+    2300180: ID335 1
+    2300182: ID335 2
+    2300184: ID335 3
+    2300186: ID368
+    2300188: ID381
+    2300190: ID60
+    2300192: ID73
+    2300194: ID86
+    2300196: ID99
+    3300000: Basket 1
+    3300002: Basket_Balloon_Tie_Ring
+    3300004: Basket_Door
+    3300006: Bolt
+    3300008: Bolt 1
+    3300010: Bolt 2
+    3300012: Bolt 3
+    3300014: Bolt 4
+    3300016: Bolt 5
+    3300018: Bolt 6
+    3300020: Bolt 7
+    3300022: Bskt_Support_Assy_1
+    3300024: Bskt_Support_Assy_1 1
+    3300026: Bskt_Support_Assy_1 2
+    3300028: Bskt_Support_Assy_1 3
+    3300030: Chock_and_Bolt
+    3300032: Chock_and_Bolt 1
+    3300034: Chock_and_Bolt 2
+    3300036: Chock_and_Bolt 3
+    3300038: Door_Hindge
+    3300040: Door_Hindge 1
+    3300042: Door_Latch
+    3300044: Door_Latch_catch
+    3300046: Frame
+    3300048: group_0
+    3300050: group_1
+    3300052: group_2
+    3300054: group_3
+    3300056: group_4
+    3300058: group_5
+    3300060: group_6
+    3300062: group_7
+    3300064: group_8
+    3300066: ID111
+    3300068: ID127
+    3300070: ID156
+    3300072: ID169
+    3300074: ID182
+    3300076: ID195
+    3300078: ID20
+    3300080: ID207
+    3300082: ID241
+    3300084: ID241 1
+    3300086: ID241 2
+    3300088: ID241 3
+    3300090: ID249
+    3300092: ID249 1
+    3300094: ID249 2
+    3300096: ID249 3
+    3300098: ID255
+    3300100: ID255 1
+    3300102: ID255 2
+    3300104: ID255 3
+    3300106: ID261
+    3300108: ID261 1
+    3300110: ID261 2
+    3300112: ID261 3
+    3300114: ID267
+    3300116: ID267 1
+    3300118: ID267 2
+    3300120: ID267 3
+    3300122: ID273
+    3300124: ID273 1
+    3300126: ID273 2
+    3300128: ID273 3
+    3300130: ID279
+    3300132: ID279 1
+    3300134: ID279 2
+    3300136: ID279 3
+    3300138: ID292
+    3300140: ID292 1
+    3300142: ID292 2
+    3300144: ID292 3
+    3300146: ID298
+    3300148: ID298 1
+    3300150: ID298 2
+    3300152: ID298 3
+    3300154: ID311
+    3300156: ID311 1
+    3300158: ID311 2
+    3300160: ID311 3
+    3300162: ID317
+    3300164: ID317 1
+    3300166: ID317 2
+    3300168: ID317 3
+    3300170: ID329
+    3300172: ID329 1
+    3300174: ID329 2
+    3300176: ID329 3
+    3300178: ID335
+    3300180: ID335 1
+    3300182: ID335 2
+    3300184: ID335 3
+    3300186: ID368
+    3300188: ID381
+    3300190: ID60
+    3300192: ID73
+    3300194: ID86
+    3300196: ID99
+    4300000: Basket
+    4300002: ID368
+    4300004: ID381
+    4300006: Frame
+    4300008: ID20
+    4300010: Basket_Balloon_Tie_Ring
+    4300012: Basket_Door
+    4300014: Door_Hindge
+    4300016: ID111
+    4300018: group_0
+    4300020: ID60
+    4300022: group_1
+    4300024: ID73
+    4300026: group_2
+    4300028: ID86
+    4300030: group_3
+    4300032: ID99
+    4300034: Door_Latch
+    4300036: group_4
+    4300038: ID127
+    4300040: Door_Latch_catch
+    4300042: Door_Hindge
+    4300044: ID207
+    4300046: group_5
+    4300048: ID156
+    4300050: group_6
+    4300052: ID169
+    4300054: group_7
+    4300056: ID182
+    4300058: group_8
+    4300060: ID195
+    4300062: Bskt_Support_Assy_1
+    4300064: ID329
+    4300066: ID335
+    4300068: Chock_and_Bolt
+    4300070: ID241
+    4300072: ID249
+    4300074: ID255
+    4300076: ID261
+    4300078: ID267
+    4300080: ID273
+    4300082: ID279
+    4300084: Bolt
+    4300086: ID292
+    4300088: ID298
+    4300090: Bolt
+    4300092: ID311
+    4300094: ID317
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
